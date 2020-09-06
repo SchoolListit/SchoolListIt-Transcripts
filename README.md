@@ -8,7 +8,7 @@ Therein, the only proper and fair way to do that is to allow the parent to self-
 Securing that with a blockchain that authenticates timestamp, revision history, and authorship of each entry provides the user of the transcript (admissions offices, parents, and future employers) a way to know that the entries are authentic. As a child grows from student to worker, entries can be added and maintained throughout life by the adult to whom that transcript belongs. 
 
 ## A student information savings account
-Consider this a child information savings account. Consider a child savings account. An adult can withdrawl all the savings once they reach adulthood and do whatever they like with that money. Wise adults use that nest egg to establish and continue saving throughout thier life.
+This a child information savings account. Consider a child savings account. An adult can withdrawl all the savings once they reach adulthood and do whatever they like with that money. Wise adults use that nest egg to establish and continue saving throughout thier life.
 
 SchoolListit Student transcripts is much more secure than what I was given ( a ziploc baggie with my SAT and Report cards ) Granted, the ziploc ultimately worked. I still have it in a fireproof safe. Maybe the paper copies mom lovingly collected are more special. Each of those papers has a bit of my mom attached, and notes from her to me. That ziploc baggie contains an invalueable treasure. I can pull those out and touch somethign she touched. It is a permanant reminder of how proud momma is of me, even if she isn't here to tell me herself. 
 
