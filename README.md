@@ -1,16 +1,18 @@
 # SchoolListIt Transcripts
 
-## Blockchain validated transcript belonging to the student
+## Blockchain validated transcript
 SchoolListIt Transcripts approaches the idea of student transcripting with a blank chalkboard and asks the question - "To whom does a transcript belong?". The clear answer is that a transcript belongs to a student, and therefore that student's guardian until the student comes of age. 
 
 Therein, the only proper and fair way to do that is to allow the parent to self-host the student's transcript and offer a secure way for schools and teachers to add grades into that transcript. When the child comes of age, the parent can transfer ownership of the domain to the student. 
 
 Securing that with a blockchain that authenticates timestamp, revision history, and authorship of each entry provides the user of the transcript (admissions offices, parents, and future employers) a way to know that the entries are authentic. As a child grows from student to worker, entries can be added and maintained throughout life by the adult to whom that transcript belongs. 
 
+## A student information savings account
 Consider this a child information savings account. An adult can choose to withdrawl all the savings once they reach adulthood and do whatever they like with that money. Wise adults use that nest egg to establish and continue saving throughout thier life.
 
 SchoolListit Student transcripts is much better than what I was given ( a ziploc baggie with my SAT and Report cards ) Granted, the ziploc ultimately worked. I still have it in a fireproof safe. Maybe the paper copies mom lovingly collected are more special. Each of those papers has a bit of my mom attached, and notes from her to me. That ziploc baggie contains an invalueable treasure. I can pull those out and touch somethign she touched. It is a permanant reminder of how proud momma is of me, even if she isn't here to tell me herself. 
 
+## Parent Entries
 So, this plugin also creates a post type "mommy & daddy notes" - it must. And when I use it I think I should handwrite the notes to my kiddos and upload them as an image. If only we could nail internet smells. What I wouldn't give to remember her scent. Mom, I miss you and love you so. 
 
 *TODO: investigate including a *Watson handwriting to text* feature if one exists*
