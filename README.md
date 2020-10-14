@@ -16,6 +16,7 @@ SchoolListit Student transcripts is much more secure than what I was given ( a z
 So, this plugin also creates a post type "mommy & daddy notes" - it must. And when I use it I think I should handwrite the notes to my kiddos and upload them as an image. If only we could nail internet smells. What I wouldn't give to remember her scent. Mom, I miss you and love you so. 
 
 *TODO: investigate including a *Watson handwriting to text* feature if one exists*
+*TODO: investigate with whom I could speak about FERPA guarunteeting a parent's right to have approved information shared as requested. As I recently experienced, it turns out that FERPA disallows a school from sharing information with a 3rd party, but does not compel them to do so. I think that may not be fair to parents. If for instance I ask a school to share transcripts with my personal student transcripting service I can waive my right to privacy and give permission for them to do so, but they can refuse under the current protections. That doesn't seem right*
 
 
 ## How it works
